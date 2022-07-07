@@ -1,4 +1,4 @@
-FROM yipikay/php:8.0
+FROM australproject/php:8.0
 
 LABEL maintainer="Matthieu Beurel <matthieu@yipikai.studio>"
 

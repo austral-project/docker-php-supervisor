@@ -3,15 +3,17 @@
 [![License](https://img.shields.io/github/license/austral-project/docker-php-supervisor)](https://img.shields.io/github/license/austral-project/docker-php-supervisor)
 [![Docker Image Version (tag latest semver)](https://img.shields.io/docker/v/australproject/php-supervisor/8.0)](https://img.shields.io/docker/v/australproject/php-supervisor/8.0)
 [![Docker Automated build](https://img.shields.io/docker/automated/australproject/php-supervisor)](https://img.shields.io/docker/automated/australproject/php-supervisor)
+[![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/australproject/php-supervisor)](https://img.shields.io/docker/cloud/build/australproject/php-supervisor)
+[![Docker Image Size (latest semver)](https://img.shields.io/docker/image-size/australproject/php-supervisor)](https://img.shields.io/docker/image-size/australproject/php-supervisor)
 
-View repository for the base image PHP 8.0 : [Docker Hub](https://hub.docker.com/repository/docker/australproject/php/) or [Gitub](https://github.com/austral-project/docker-php)
+View repository for the base image PHP 8.0 : [Docker Hub](https://hub.docker.com/r/australproject/php/) or [Gitub](https://github.com/austral-project/docker-php)
 
 __Versions__
 * PHP : 8.0.18
 * Node : 16.14.2
 * NPM : 8.1.3
 * Squoosh-cli : 0.7.2
-* PostreSQL-client : 14.4
+* PostgreSQL-client : 14.4
 * MySQL-client : 10.6
 * Supervisor : 4.2
 

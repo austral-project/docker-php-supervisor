@@ -2,6 +2,8 @@ FROM australproject/php:8.1
 
 LABEL maintainer="Matthieu Beurel <matthieu@yipikai.studio>"
 
+ENV SCRIPT_AUTO=0
+
 RUN apk update && apk upgrade
 RUN apk add --update --no-cache supervisor
 RUN apk del nodejs npm --quiet
